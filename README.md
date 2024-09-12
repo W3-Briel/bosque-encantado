@@ -2,8 +2,6 @@
 
 Los duendes y las hadas son criaturas mágicas que viven ocultos en un lugar muy secreto llamado **Parque Encantado**. 
 
-![alt Bosque Encantado](./img/bosqueEncantado.png)
-
 Se nos solicita modelar un sistema de objetos que pueda incluir tanto a las criaturas conocidas como a cualquier otra que habite en el parque.
 
 ## Criaturas
@@ -63,3 +61,5 @@ Si el poder ofensivo de la colonia invasora supera al poder defensivo del área,
 
 Y si, en cambio, el área resultara vencedora, la conquista no tiene éxito; la colonia defensora mantiene el control, y todos los integrantes de la colonia invasora pierden el 15% de su poder mágico.
 
+## Test
+Realizar los test necesarios para lograr una covertura de codigo de al menos el 75%. Sugermimos obligatoriamente realizar todos las combianciones entre criaturas y roles de la primera parte.
