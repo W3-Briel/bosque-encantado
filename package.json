@@ -1,0 +1,22 @@
+{
+  "name": "bosque-encantado",
+  "version": "1.0.0",
+  "description": "ejercicio de laboratorio de programacion unpaz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W3-Briel/bosque-encantado.git"
+  },
+  "author": "w3-briel | gonzager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W3-Briel/bosque-encantado/issues"
+  },
+  "homepage": "https://github.com/W3-Briel/bosque-encantado#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
