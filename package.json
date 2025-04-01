@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ejercicio de laboratorio de programacion unpaz",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "jest"
   },
