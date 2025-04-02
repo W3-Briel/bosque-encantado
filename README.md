@@ -1,3 +1,5 @@
+estado del repositorio: ![inprogress](https://badgen.net/badge/status/inprocess?color=orange)
+
 # Bosque Encantado
 
 Los duendes y las hadas son criaturas mágicas que viven ocultos en un lugar muy secreto llamado **Parque Encantado**. 
